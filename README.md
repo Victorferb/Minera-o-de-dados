@@ -2,6 +2,7 @@
 
 
 Reconhecimentos e Direitos Autorais
+
 @autor: Victor Ferreira Braga
 @contato: victor.braga@discente.ufma.br
 @data última versão: 02/02/2025
